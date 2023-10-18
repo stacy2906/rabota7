@@ -1,0 +1,8 @@
+D:\C.A\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+D:\C.A\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+D:\C.A\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+D:\C.A\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+D:\C.A\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.SuggestedBindingRedirects.cache
+D:\C.A\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+D:\C.A\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+D:\C.A\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
